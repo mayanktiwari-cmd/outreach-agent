@@ -1,0 +1,15 @@
+name: Jane Doe
+year: Junior
+college: MIT
+email: jane.doe@mit.edu
+projects:
+  - "Built a transformer-based code summarization tool using T5 (Python, PyTorch)"
+  - "Developed a distributed key-value store with Raft consensus (Go)"
+  - "Created CourtroomAI: LLM-as-judge for argument evaluation (Python, FastAPI)"
+  - "Implemented a RISC-V out-of-order processor simulator (C++)"
+github: https://github.com/janedoe
+linkedin: https://linkedin.com/in/janedoe
+interests:
+  - machine learning
+  - systems
+  - programming languages

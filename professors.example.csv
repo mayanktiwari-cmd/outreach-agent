@@ -1,0 +1,6 @@
+name,email,university,link
+"Yann LeCun",yann@cs.nyu.edu,"New York University","https://arxiv.org/abs/2301.08243"
+"Fei-Fei Li",feifeili@cs.stanford.edu,"Stanford University","https://arxiv.org/search/?query=fei-fei+li&searchtype=author"
+"Geoffrey Hinton",hinton@cs.toronto.edu,"University of Toronto","https://arxiv.org/abs/2212.11279"
+"Yoshua Bengio",yoshua.bengio@mila.quebec,"Université de Montréal","https://arxiv.org/search/?query=yoshua+bengio&searchtype=author"
+"Andrew Ng",ang@cs.stanford.edu,"Stanford University","https://arxiv.org/abs/2304.03442"
